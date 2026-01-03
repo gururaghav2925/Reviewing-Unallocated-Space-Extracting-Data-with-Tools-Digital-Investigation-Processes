@@ -42,8 +42,12 @@ flowchart TD
 
 # OUTPUT
 
-# Make a Seperate Partion :
-
+# Make a Seperate Disk Using Virtual Disk  :
+```mermaid
+flowchart TD
+    A[open Action on Disk partion] -->B[create Virtual Hard Disk]
+    B[create Virtual Hard Disk ] --> c[create a new disk and assign it ]
+```
 <img width="944" height="746" alt="Screenshot 2025-09-20 140514" src="https://github.com/user-attachments/assets/5075b4de-599d-4a93-a762-336d61778fd0" />
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 140545" src="https://github.com/user-attachments/assets/0dc4a16d-6087-418a-bcc1-a793ec08c70e" />
