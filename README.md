@@ -40,6 +40,9 @@ flowchart TD
 | 3    | Data carving               | Autopsy Data Carving Module | Recovered files              |
 | 4    | Export evidence            | Autopsy Export Option       | File copies for analysis     |
 
+# OUTPUT
+
+# Make a Seperate Partion :
 
 <img width="944" height="746" alt="Screenshot 2025-09-20 140514" src="https://github.com/user-attachments/assets/5075b4de-599d-4a93-a762-336d61778fd0" />
 
