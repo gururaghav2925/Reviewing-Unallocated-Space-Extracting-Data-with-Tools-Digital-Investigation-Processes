@@ -50,10 +50,17 @@ flowchart TD
 ```
 <img width="944" height="746" alt="Screenshot 2025-09-20 140514" src="https://github.com/user-attachments/assets/5075b4de-599d-4a93-a762-336d61778fd0" />
 
+
+# Place File on Created New Disk which is act as a external disk:
+
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 140545" src="https://github.com/user-attachments/assets/0dc4a16d-6087-418a-bcc1-a793ec08c70e" />
 
+# Delete the Entire Virtual diskL
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 140604" src="https://github.com/user-attachments/assets/df722e77-4be8-4eec-aea2-13ff8c821bb8" />
+
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 140807" src="https://github.com/user-attachments/assets/713dfb4b-0f34-4f81-8d39-b9a4c539f2a5" />
 
